@@ -1,5 +1,4 @@
 # Spring-Boot RESTful Quickstart Maven Archetype
----
 
 Summary
 -------
