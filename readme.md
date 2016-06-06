@@ -6,6 +6,21 @@ Summary
 -------
 The project is a Maven archetype for Spring Boot RESTful application.
 
+
+Generated project characteristics
+-------------------------
+* Spring Boot Restful web application
+* JPA (Hibernate/Spring Data JPA)
+* Spring Security
+* ...
+
+
+Prerequisites
+-------------
+- JDK 8
+- Maven
+
+
 Install archetype locally
 -------------------------
 
@@ -16,6 +31,7 @@ To install the archetype in your local repository execute the following commands
     cd spring-boot-restful-quickstart-archetype
     mvn clean install
 ```
+
 
 Create a project from a local repository
 ----------------------------------------
